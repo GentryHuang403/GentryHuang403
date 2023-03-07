@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GentryHuang403
 - 👀 I’m interested in running(especially Marathon)，3A games, study my major and play guitar.
-- 🌱 I’m currently learning Mathematics and Philosophy.
+- 🌱 I’m currently learning Mathematics and Philosophy. 
+- My interest field in Mathematics is Partial Differential Equations and in Philosophy is Classical Deutsche Philosophy.
 - 📫 How to reach me : Send me email to gentryhuang0403@gmail.com won't reply quickly.
 
 <!---
